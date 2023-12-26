@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kalpesh-Rajput
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science from AlmaBetter and Currently working as Data Analyst (CS Planner) in Samsung Electronics.
+- 🌱 I’m currently learning Data Science from AlmaBetter and Currently working as Data Analyst in Indian ION Exchange and Chemical LTD.
 - 📫 How to reach me - Mail - kr342803@gmail.com
 
 <!---
