@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kalpesh-Rajput
 - 👀 Eager AI ML seeking exciting career opportunities
-- 🌱 I’m  Pursuing Master's Degree in Data Science and Artificial intelligence and Currently working as Data Analyst in Indian ION Exchange and Chemical LTD.
+- 🌱 I’m  Pursuing Master's Degree in Data Science and Artificial intelligence and Currently working as Data Analyst in WeyBee Solutions PVT LTD.
 - 📫 How to reach me - kr342803@gmail.com
 
 <!---
